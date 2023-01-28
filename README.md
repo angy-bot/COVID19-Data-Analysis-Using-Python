@@ -1,7 +1,7 @@
 # COVID19-Data-Analysis-Using-Python
 
-The course materials belong entirely to Coursera. Also, the COVID19 dataset, published by John Hopkins University. The answers are the only things that show my trials.
+A complete set of course materials is owned by Coursera. In addition, John Hopkins University has released the COVID19 dataset. My trials can only be shown by the answers.
 
 # Course Objectives:
 
-Merge the two datasets to see if there is any relationship between the spread of the the virus in a country and how happy people are, living in that country. Great thanks to the course instructor: Ahmad Varasteh
+Using both datasets together, analyze whether there is a connection between the spread of the virus in a country and the happiness of its citizens. I would like to thank the instructor of the course: Ahmad Varasteh.
